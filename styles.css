@@ -1,3 +1,16 @@
 canvas {
   margin: 0;
+  display: block;
+}
+
+#banner {
+  margin-left: 33%;
+  margin-top: 150px;
+}
+
+#myGradientCanvas {
+  position:absolute;
+  left:0;
+  top:0;
+  z-index:-1;
 }
